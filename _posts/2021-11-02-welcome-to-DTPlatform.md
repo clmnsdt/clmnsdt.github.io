@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DT 플랫폼 사업본부"
+title: "DT플랫폼 사업본부 소개"
 date: 2021-11-02 21:03:36 +0530
 categories: About
 ---
