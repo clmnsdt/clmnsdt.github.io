@@ -34,15 +34,15 @@ categories: About
 <!-- ![캡처](/assets/mymentalpocket.png){: width="40" height="100"} -->
 <p float="left" margin="10">
 <kbd>
-<img src="/assets/mymentalpocket.png" width="300" height="600">
+<img src="/assets/mymental/mymentalpocket.png" width="300" height="600">
 </kbd>
 
 <kbd>
-<img src="/assets/mymentalpocket2.png" width="300" height="600">
+<img src="/assets/mymental/mymentalpocket2.png" width="300" height="600">
 </kbd>
 
 <kbd>
-<img src="/assets/mymentalpocket3.png" width="300" height="600">
+<img src="/assets/mymental/mymentalpocket3.png" width="300" height="600">
 </kbd>
 <!-- <kbd>
 <img src="/assets/pocky.png" width="300" height="600">
@@ -53,14 +53,14 @@ categories: About
 
 <p float="left" margin="10">
 <kbd>
-<img src="/assets/pocky.png" width="300" height="600">
+<img src="/assets/mymental/pocky.png" width="300" height="600">
 </kbd>
 
 <kbd>
-<img src="/assets/pocky2.png" width="300" height="600">
+<img src="/assets/mymental/pocky2.png" width="300" height="600">
 </kbd>
 
 <kbd>
-<img src="/assets/pocky3.png" width="300" height="600">
+<img src="/assets/mymental/pocky3.png" width="300" height="600">
 </kbd>
 </p>

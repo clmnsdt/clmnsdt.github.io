@@ -9,6 +9,7 @@ package.json
 /_site/
 _site/
 .sass-cache/
+.jekyll-cache/
 .jekyll-metadata
 .jekyll
 Gemfile
